@@ -1,5 +1,5 @@
 # Traffic-Signs-Recognition
-Classify the different Traffic Signals based on CNN Neural Networks 
+Classify the different Traffic Signals based on CNN Neural Networks Classification
 
 
 Under Progress
